@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **akhtarmajid273@gmail.com**
 
-- 📄 Know about my experiences [https://mohdmajidakhtar.github.io/documents/CV_MohdMajidAkhtar.pdf](https://mohdmajidakhtar.github.io/documents/CV_MohdMajidAkhtar.pdf)
+<!-- - 📄 Know about my experiences [https://mohdmajidakhtar.github.io/documents/CV_MohdMajidAkhtar.pdf](https://mohdmajidakhtar.github.io/documents/CV_MohdMajidAkhtar.pdf) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
