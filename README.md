@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Social Media, Bots, False Information Detection, Blockchain, Distributed Ledger Technology**
 
-- 📫 How to reach me **akhtarmajid273@gmail.com**
+- 📫 How to reach me **akhtarmajid273@gmail.com** or visit my website **https://mohdmajidakhtar.github.io/**
 
 <!-- - 📄 Know about my experiences [https://mohdmajidakhtar.github.io/documents/CV_MohdMajidAkhtar.pdf](https://mohdmajidakhtar.github.io/documents/CV_MohdMajidAkhtar.pdf) -->
 
