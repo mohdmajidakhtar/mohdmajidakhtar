@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mohd Majid Akhtar</h1>
-<h3 align="center">A passionate Blockchain researcher and developer from New Delhi, India</h3>
+<h3 align="center">A passionate researcher and developer</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdmajidakhtar" alt="mohdmajidakhtar" /></a> </p> -->
 
-- 🔭 I’m currently working on **Blockchain and DLT for Internet of Things**
+- 🔭 I’m currently working on **Detecting bots and social media manipulation**
 
-- 🌱 I’m currently learning **IOTA Framework and Fingerprinting techniques**
+- 🌱 I’m currently learning **Social Media Analysis techniques**
 
-- 👯 I’m looking to collaborate on **Blockchain Projects**
+- 👯 I’m looking to collaborate on **Social Media Manipulation Detection Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohdmajidakhtar](https://github.com/mohdmajidakhtar)
 
 - 📝 I regularly write articles on [https://mohdmajidakhtar.github.io/blogchain/](https://mohdmajidakhtar.github.io/blogchain/)
 
-- 💬 Ask me about **Blockchain, Distributed Ledger Technology**
+- 💬 Ask me about **Social Media, Bots, False Information Detection, Blockchain, Distributed Ledger Technology**
 
 - 📫 How to reach me **akhtarmajid273@gmail.com**
 
